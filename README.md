@@ -12,6 +12,7 @@ This project is a simple calculator application developed in Java.
 
 ## Technologies Used
 - Java
+- swing
 
 ## Usage
 1. Clone the repository:
